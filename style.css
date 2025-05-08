@@ -1,0 +1,149 @@
+.cont{
+     background-image:url("Screenshot\ 2025-05-09\ at\ 2.29.24\ AM.png");
+        background-size: cover;
+        background-repeat: repeat;
+        background-position: center;
+        padding: 100px;
+        padding-bottom: 700px;
+        
+      
+      
+}
+header{
+    font-family: Cinzel;
+}
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    background: #f8f7f6;
+    color: #333;
+    font-family: Montserrat;
+  }
+  
+  .navbar {
+    position: sticky;
+    top: 0;
+    background-color: #d2bfb2;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+   
+
+  }
+  .loc{
+    padding: 100px;
+
+  }
+  .soc{
+    padding: 100px;
+  }
+  
+  .navbar .brand {
+    font-weight: bold;
+    font-size: 22px;
+    font-family: Cinzel ;
+    letter-spacing: 1px;
+  }
+#logo{
+    padding-right: 500px;
+    border-spacing: 0px;
+    padding-bottom: 0px;
+    
+}
+.bar1{
+    margin-right: 50px;
+}
+  
+  .navbar nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+  }
+  
+  .hero {
+    padding: 60px ;
+    font-size: x-large;
+    text-align: center;
+    font-family: montserrat;
+    position: static;
+    top: 10;
+  }
+  
+  .hero h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #000000;
+  }
+  
+
+
+  
+
+  .about {
+    background-color: #d2bfb2;
+    padding: 10px 30px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 25px;
+  }
+  .about h1{
+    font-size:40px ;
+  }
+  .services {
+    
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+    background-color: #d2bfb2;
+}
+
+ .abouthead{
+        font-size: 60px;
+        
+    }
+.services p{
+    font-size: x-large;
+}
+  
+  .about h2, .services h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #0f0c0f;
+    font-family: Montserrat;
+  }
+  
+  .services ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .services li {
+    background: #f6f1ea;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-left: 4px solid #000000;
+  }
+  
+  .footer {
+    font-family: Montserrat;
+    background: #d2bfb2;
+    padding: 20px 30px;
+    text-align: center;
+    font-size: 14px;
+  }
+ .footer h1{
+    font-size: 50px;
+    font-weight: 500;
+    font-family: Montserrat;
+ } 
+  .footer .socials a {
+    text-decoration: none;
+    margin: 0 5px;
+    color: #ef3c3c;
+  }
+  
